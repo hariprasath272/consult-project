@@ -1,0 +1,40 @@
+.heading-title {
+    background: rgba(24, 78, 119, .1);
+    color: #184e77;
+}
+
+.grow {
+    color: #1a237e;
+}
+
+.background-img {
+    background: url('https://consult-nextjs.vercel.app/_next/static/media/homepage2-background.6e89352d.png')
+}
+
+.heading {
+    font-size: 47px !important;
+}
+
+.rounded-curve {
+    position: absolute;
+    top: 460px;
+    right: 20px;
+
+}
+
+.rounded-bg {
+    position: absolute;
+    top: -26px;
+    right: 10px;
+}
+
+.chart {
+    position: absolute;
+    top: 400px;
+    right: 500px;
+    z-index: 1;
+}
+.half-img{
+    position: relative;
+    z-index: 1;
+}

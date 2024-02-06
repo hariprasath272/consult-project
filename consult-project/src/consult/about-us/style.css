@@ -1,0 +1,21 @@
+.about-us-title{
+    background: rgba(24, 78, 119, .1);
+    color: #184e77;
+}
+.img-grey-bg{
+ background: #e9edf4;
+ padding: 18px;
+}
+.blue-wrapper {
+    background: #1a237e;
+    width: 12px;
+    height: 147px;
+    /* top: 25px; */
+    position: absolute;
+    /* left: 10px; */
+    top: 950px;
+    right: 559px;
+    transition: all .4s ease-in-out;
+}
+  
+  
